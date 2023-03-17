@@ -1,7 +1,5 @@
 Graphics and Animation Module - Northumbria University
-Interaction, animation and special effects (role 2)
 © Cristian - Alexandru Mitoi
-Student ID: 20010102
 
 Access link: http://unn-w20010102.newnumyspace.co.uk/kf6018/index.html
 
