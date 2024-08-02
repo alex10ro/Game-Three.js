@@ -1,7 +1,7 @@
 Graphics and Animation Module - Northumbria University
 © Cristian - Alexandru Mitoi
 
-Access link: http://unn-w20010102.newnumyspace.co.uk/kf6018/index.html
+Access link: https://mediumslateblue-wallaby-957737.hostingersite.com/index.html
 
 How it works: At every 5 laps made by the player, another AI vehicle is spawned. Your goal is to make the highest score posible.
 
